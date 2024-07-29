@@ -64,10 +64,15 @@ Bitwise operators are used to perform operations on individual bits of data. The
 Bitwise operators perform operations on the individual bits of data. They include:
 
 AND (&): Sets each bit to 1 if both bits are 1.
+
 OR (|): Sets each bit to 1 if at least one bit is 1.
+
 XOR (^): Sets each bit to 1 if only one bit is 1.
+
 NOT (~): Inverts all the bits.
+
 Left Shift (<<): Shifts bits to the left, filling with 0s.
+
 Right Shift (>>): Shifts bits to the right, filling with 0s (logical shift).
 
 ### Conclusion
